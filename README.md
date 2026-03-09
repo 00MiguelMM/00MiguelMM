@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Miguel Martínez
 
-<!--
-**00MiguelMM/00MiguelMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-Here are some ideas to get you started:
+Actualmente desarrollando proyectos y ampliando conocimientos en programación y desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+
+- HTML
+- CSS
+- JavaScript
+- Kotlin
+- Python
+- Git
+- GitHub
+- Tailwind CSS
+
+## Actualmente aprendiendo
+
+- Python
+- Introducción a la IA generativa
+- Desarrollo de aplicaciones
+
+## Proyectos
+
+**TaskFlow** – Aplicación de gestión de tareas  
+https://taskflow-project-weld.vercel.app
+
+## GitHub
+
+https://github.com/00MiguelMM
