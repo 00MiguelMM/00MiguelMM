@@ -20,27 +20,13 @@ I'm a Junior Full Stack Developer interested in building modern web and mobile a
 
 ## Currently
 
-- Building LookFinder, a mobile app for discovering clothing by style, inspiration and budget.
-- Learning Python.
-- Developing personal software projects.
-
-## Featured Projects
-
-### LookFinder
-
-A mobile application that helps users discover clothing based on style, inspiration and budget.
-
-### Moving App (Internship Project)
-
-Collaborative development of a mobile application for moving services during my software development internship.
-
-### MisTop
-
-Full Stack application for creating and managing personal rankings.
-
-### TaskFlow
-
-Task management web application developed during my training.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[LookFinder](https://github.com/00MiguelMM/lookfinder)** | Fashion discovery app to discover clothing by style, budget and inspiration. | React Native · Expo · TypeScript |
+| **[MudanzApp](https://github.com/enriquemr17/APP-MUDANZA)** | Android application for managing moving services, vehicles and incidents. | Kotlin · Android |
+| **[MisTop](https://github.com/00MiguelMM/MisTop)** | Full Stack application for creating and managing personal rankings. | React · Node.js · TypeScript |
+| **[TaskFlow](https://github.com/00MiguelMM/taskflow-project)** | Task management web application developed during my training. | HTML · CSS · JavaScript |
+| **[NoteFlow API](https://github.com/00MiguelMM/noteflow-api)** | REST API built with Next.js and PostgreSQL. | Next.js · TypeScript · PostgreSQL |
 
 ## GitHub
 
