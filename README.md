@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Martínez
 
-Higher Technician in Multiplatform Application Development (DAM).
+Graduate in Multiplatform Application Development (DAM).
 
 I'm a Junior Full Stack Developer interested in building modern web and mobile applications. I enjoy learning new technologies and creating personal projects to improve my skills.
 
