@@ -27,12 +27,19 @@ I'm a Junior Full Stack Developer interested in building modern web and mobile a
 ## Featured Projects
 
 ### LookFinder
+
 A mobile application that helps users discover clothing based on style, inspiration and budget.
 
+### Moving App (Internship Project)
+
+Collaborative development of a mobile application for moving services during my software development internship.
+
 ### MisTop
+
 Full Stack application for creating and managing personal rankings.
 
 ### TaskFlow
+
 Task management web application developed during my training.
 
 ## GitHub
