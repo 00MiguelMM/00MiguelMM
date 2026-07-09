@@ -1,30 +1,39 @@
-# Hola, soy Miguel Martínez
+# Hi, I'm Miguel Martínez
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Higher Technician in Multiplatform Application Development (DAM).
 
-Actualmente desarrollando proyectos y ampliando conocimientos en programación y desarrollo de software.
+I'm a Junior Full Stack Developer interested in building modern web and mobile applications. I enjoy learning new technologies and creating personal projects to improve my skills.
 
-## Tecnologías y herramientas
+## Technologies
 
+- TypeScript
+- JavaScript
+- React
+- React Native (Expo)
+- Node.js
+- PostgreSQL
 - HTML
 - CSS
-- JavaScript
-- Kotlin
-- Python
+- Tailwind CSS
 - Git
 - GitHub
-- Tailwind CSS
 
-## Actualmente aprendiendo
+## Currently
 
-- Python
-- Introducción a la IA generativa
-- Desarrollo de aplicaciones
+- Building LookFinder, a mobile app for discovering clothing by style, inspiration and budget.
+- Learning Python.
+- Developing personal software projects.
 
-## Proyectos
+## Featured Projects
 
-**TaskFlow** – Aplicación de gestión de tareas  
-https://taskflow-project-weld.vercel.app
+### LookFinder
+A mobile application that helps users discover clothing based on style, inspiration and budget.
+
+### MisTop
+Full Stack application for creating and managing personal rankings.
+
+### TaskFlow
+Task management web application developed during my training.
 
 ## GitHub
 
