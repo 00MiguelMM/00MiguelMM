@@ -27,7 +27,3 @@ I'm a Junior Full Stack Developer interested in building modern web and mobile a
 - Tailwind CSS
 - Git
 - GitHub
-
-## GitHub
-
-https://github.com/00MiguelMM
